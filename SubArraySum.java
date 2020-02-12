@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 //to find the indexes between the array  of given sum
+=======
+>>>>>>> d4324344447beaf933f2d96b631d18646ee72570
 package arrayListQuestion;
 import java.util.*;
 public class SubArraySum {
