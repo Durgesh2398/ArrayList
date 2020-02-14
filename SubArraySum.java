@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 //to find the indexes between the array  of given sum
-=======
->>>>>>> d4324344447beaf933f2d96b631d18646ee72570
 package arrayListQuestion;
 import java.util.*;
 public class SubArraySum {
@@ -27,7 +24,7 @@ public class SubArraySum {
 			for(int j=i+1;j<=n;j++) {
 				if(csum==sum) {
 					int p=j-1;
-					System.out.println(i+"between"+p);
+					System.out.println(i+" between "+p);
 					return 1;
 				}
 				if(csum>sum||j==n) {
